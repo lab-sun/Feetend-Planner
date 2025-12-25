@@ -22,7 +22,7 @@ The official OCS2 repository can be found at:
 This project builds upon OCS2's optimal control framework for:
 - Trajectory optimization for quadruped robots
 - Terrain-aware foot placement planning
-- Stable locomotion planning considering terrain features at feet end
+- Stable locomotion planning considering terrain features at the feet
 
 ## Installation
 
@@ -33,7 +33,7 @@ For detailed installation instructions, please refer to the [OCS2 repository](ht
 If you use OCS2 in your research, please cite:
 ```
 @software{ocs2,
-  author = {Farbod Farshidian and others},
+  author = {Farbod Farshidian and et al.},
   title = {{OCS2}: Optimal Control for Switched Systems},
   url = {https://github.com/leggedrobotics/ocs2},
   organization = {Robotic Systems Lab, ETH Zurich}

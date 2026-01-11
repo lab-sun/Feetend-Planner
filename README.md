@@ -26,8 +26,12 @@ The perceptive control architecture please refer to https://github.com/qiayuanl/
 1. Install ocs2 following instructions from https://github.com/leggedrobotics/ocs2
 2. Run the perceptive locomotion demo in ocs2.
 ```
-   roslaunch ocs2_anymal_loopshaping_mpc perceptive_mpc_li.launch
+   roslaunch ocs2_anymal_loopshaping_mpc perceptive_mpc.launch
+```
 4. Create your own terrain with grayscale. Assign the grayscale file path in the launch file
 5. Put the trajtories compouted with compute_body_traj.py into "ocs2/ocs2_robotic_examples/ocs2_perceptive_anymal/ocs2_anymal_loopshaping_mpc/data/"
-6. Run roslaunch ocs2_anymal_loopshaping_mpc perceptive_mpc_li.launch
+6. Run the simulation.
+```
+   roslaunch ocs2_anymal_loopshaping_mpc perceptive_mpc.launch
+```
 

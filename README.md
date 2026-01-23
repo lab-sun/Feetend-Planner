@@ -1,5 +1,5 @@
 # Feetend-Planner
-This is the official implementation of the RAL paper Stable Trajectory Planning for Quadruped Robots using Terrain Features at Feet End.
+This is the official implementation of the RAL paper [Stable Trajectory Planning for Quadruped Robots using Terrain Features at Feet End](https://doi.org/10.1109/LRA.2025.3645657).
 
 
 
@@ -35,3 +35,16 @@ The perceptive control architecture please refer to https://github.com/qiayuanl/
    roslaunch ocs2_anymal_loopshaping_mpc perceptive_mpc.launch
 ```
 
+# Citation
+
+```
+@ARTICLE{li2026stable,
+  author={Congfei Li and Shuyue Lin and Shenwei Qu and Zhuoyuan Liu and Qingjun Yang and Max Q.-H. Meng and Yuxiang Sun},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Stable Trajectory Planning for Quadruped Robots Using Terrain Features at Feet End}, 
+  year={2026},
+  volume={11},
+  number={2},
+  pages={2266-2273},
+  doi={10.1109/LRA.2025.3645657}}
+```

@@ -1,4 +1,4 @@
-# Feetend-Planner
+## 🏠 About
 This is the official implementation of the RAL paper [Stable Trajectory Planning for Quadruped Robots using Terrain Features at Feet End](https://doi.org/10.1109/LRA.2025.3645657).
 
 
